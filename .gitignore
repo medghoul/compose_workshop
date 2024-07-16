@@ -1,0 +1,32 @@
+# File system
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Build artifacts
+build/
+dist/
+node_modules/
+
+# IDE specific files
+.idea/
+.vscode/
+
+# Compiled files
+*.class
+*.jar
+*.war
+*.ear
+
+# Package files
+*.zip
+*.tar.gz
+*.tar.bz2
+*.tar.xz
+
+# Miscellaneous
+*.swp
+*.swo
+*.tmp
